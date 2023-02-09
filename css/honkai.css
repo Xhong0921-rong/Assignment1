@@ -10,13 +10,13 @@ body {
     background-color: lavender;
     padding: 10px;
   }
-  
+
   table {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
   }
-  
+
   td {
     padding: 5px;
     border: 1px solid;
